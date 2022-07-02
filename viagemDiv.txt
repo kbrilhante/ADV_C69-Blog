@@ -1,0 +1,12 @@
+    <div class="container">
+        <h2 class="page-header" id="viagem">Lugares que você tem que conhecer</h2>
+        <div class="principalViagem">
+            <img src="">
+            <h4 class="text-capitalize"><kbd>Nome do Lugar</kbd></h4>
+            <h5 class="text-success text-capitalize">Visitei em dezembro de 2021</h5>
+            <div class="line col-4"></div>
+            <p class="text-muted">
+                Cupcake ipsum dolor sit amet gingerbread I love. Cheesecake cake topping candy sesame snaps macaroon brownie cupcake. Brownie chocolate bar halvah sweet cake I love. Ice cream dragée carrot cake chocolate bar jelly I love. Pastry biscuit powder chocolate cake wafer carrot cake powder. Cake tiramisu chupa chups gingerbread muffin. Pastry candy canes gummies gummies donut croissant candy canes. I love I love ice cream wafer croissant chocolate bar gummi bears jujubes. Marshmallow carrot cake shortbread carrot cake jelly beans oat cake pudding. Marzipan shortbread pudding powder cake dragée I love fruitcake jelly-o. Chocolate cake lollipop donut I love gingerbread. I love dragée sesame snaps cake candy canes carrot cake danish ice cream. I love halvah pastry I love chupa chups cheesecake. Cheesecake sugar plum halvah cookie I love I love gummies jujubes carrot cake.
+            </p>
+        </div>
+    </div>
